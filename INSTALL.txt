@@ -1,4 +1,4 @@
 To run the program:
-¥ open a Terminal and type
-¥ cd {download directory}/BiesTimerOSX/BiesClucasPlayBehaviorTimer
-¥ ./BiesClucasPlayBehaviorTimer
+â€¢ open a Terminal and type
+â€¢ cd {download directory}/BiesTimerOSX/BiesClucasPlayBehaviorTimer
+â€¢ ./BiesClucasPlayBehaviorTimer
